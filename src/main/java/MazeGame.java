@@ -17,6 +17,7 @@ public class MazeGame extends Application {
 
     public static Scene mainScene;
 
+    //hello again!
     //Key interceptor for the arrow keys, will only fire if the game is running
     public static EventHandler<KeyEvent> keyListener = new EventHandler<KeyEvent>() {
         @Override
